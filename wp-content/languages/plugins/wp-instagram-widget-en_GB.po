@@ -1,0 +1,113 @@
+# Translation of Plugins - WP Instagram Widget - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - WP Instagram Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-22 07:40:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - WP Instagram Widget - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://scott.ee"
+msgstr "https://scott.ee"
+
+#. Author of the plugin/theme
+msgid "Scott Evans"
+msgstr "Scott Evans"
+
+#. Description of the plugin/theme
+msgid "A WordPress widget for showing your latest Instagram photos."
+msgstr "A WordPress widget for showing your latest Instagram photos."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/scottsweb/wp-instagram-widget"
+msgstr "https://github.com/scottsweb/wp-instagram-widget"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Instagram Widget"
+msgstr "WP Instagram Widget"
+
+#: wp-instagram-widget.php:306
+msgid "Instagram did not return any images."
+msgstr "Instagram did not return any images."
+
+#: wp-instagram-widget.php:246 wp-instagram-widget.php:271
+msgid "Instagram Image"
+msgstr "Instagram Image"
+
+#: wp-instagram-widget.php:218 wp-instagram-widget.php:226
+#: wp-instagram-widget.php:230
+msgid "Instagram has returned invalid data."
+msgstr "Instagram has returned invalid data."
+
+#: wp-instagram-widget.php:210
+msgid "Instagram did not return a 200."
+msgstr "Instagram did not return a 200."
+
+#: wp-instagram-widget.php:206
+msgid "Unable to communicate with Instagram."
+msgstr "Unable to communicate with Instagram."
+
+#: wp-instagram-widget.php:170
+msgid "Link text"
+msgstr "Link text"
+
+#: wp-instagram-widget.php:167
+msgid "New window (_blank)"
+msgstr "New window (_blank)"
+
+#: wp-instagram-widget.php:166
+msgid "Current window (_self)"
+msgstr "Current window (_self)"
+
+#: wp-instagram-widget.php:164
+msgid "Open links in"
+msgstr "Open links in"
+
+#: wp-instagram-widget.php:161
+msgid "Original"
+msgstr "Original"
+
+#: wp-instagram-widget.php:160
+msgid "Large"
+msgstr "Large"
+
+#: wp-instagram-widget.php:159
+msgid "Small"
+msgstr "Small"
+
+#: wp-instagram-widget.php:158
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: wp-instagram-widget.php:156
+msgid "Photo size"
+msgstr "Photo size"
+
+#: wp-instagram-widget.php:155
+msgid "Number of photos"
+msgstr "Number of photos"
+
+#: wp-instagram-widget.php:154
+msgid "@username or #tag"
+msgstr "@username or #tag"
+
+#: wp-instagram-widget.php:153
+msgid "Title"
+msgstr "Title"
+
+#: wp-instagram-widget.php:142
+msgid "Follow Me!"
+msgstr "Follow Me!"
+
+#: wp-instagram-widget.php:56
+msgid "Displays your latest Instagram photos"
+msgstr "Displays your latest Instagram photos"
+
+#: wp-instagram-widget.php:53 wp-instagram-widget.php:139
+msgid "Instagram"
+msgstr "Instagram"

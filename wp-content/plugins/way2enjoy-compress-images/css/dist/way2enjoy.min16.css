@@ -1,0 +1,522 @@
+.wpmud .float-l{float:left}.wpmud .block{display:block;width:98%;float:none}.wpmud #wpbody1,.wpmud #wpbody2,.wpmud #wpbody3{background:#F4F4F4;-webkit-font-smoothing:antialiased!important}.wpmud #wpbody1,.wpmud #wpbody2,.wpmud #wpbody3 *{box-sizing:border-box;-moz-box-sizing:border-box}#wpbody1,#wpbody2,#wpbody3{margin-top:10px}.wpmud .wp-way2enjoy-welcome.wp-way2enjoy-container{background-image:url(welcome-notice.png);background-repeat:no-repeat;background-position:30px bottom;padding-bottom:0}.wpmud .dev-box{border-radius:5px;background-color:#FFF;box-shadow:0 2px 0 #EAEAEA;padding:30px;margin:0 0 30px}.wpmud .way2enjoy-page-wrap .dev-box .box-title{height:67px;margin:-25px 0 28px}.wpmud .wp-way2enjoy-welcome.wp-way2enjoy-container .box-content{min-height:149px}.wpmud .wp-way2enjoy-welcome-content{padding-bottom:20px;display:inline-block;overflow:hidden;max-width:68%;margin:0 30px 0 200px}.wpmud .wp-way2enjoy-welcome-content h4{font-size:30px;line-height:1.4;text-align:left}.wpmud .roboto-condensed-regular{font-family:'Roboto Condensed',sans-serif}.wpmud h4{font-size:36px;text-transform:uppercase}.wpmud h4,.wpmud h5,.wpmud h6{font-family:Roboto,sans-serif;font-weight:500}.wpmud .dev-box .box-title{height:60px;padding:0 30px;border-bottom:1px solid #EAEAEA;margin:-30px 0px 25px 0px}.wdv-icon-remove:before{content:"\f1d";font-size:80px}.wdv-icon:before{font-family:FontAwesomeWdv;font-weight:400;font-style:normal;display:inline-block;text-decoration:inherit}.wpmud .roboto-medium,.wpmud p{font-family:Roboto,sans-serif}.wpmud p:last-child{margin-bottom:0}.wpmud .wp-way2enjoy-welcome-message{line-height:1.7;margin-top:20px;margin-bottom:30px}.wpmud p{display:block;margin:.5em 0;padding:0;font-weight:400;font-size:15px;line-height:29px;color:#777771}.wpmud .float-r{float:right}.way2enjoy-dismiss-welcome{margin:0.5em 0}.wpmud .way2enjoy-dismiss-welcome a{color:#9b9b9b}a,div{outline:0}.action_links .wdv-icon,.wdv-icon.wdv-icon-fw,li .wdv-icon{display:inline-block;width:12.25em;text-align:center}a .wdv-icon{display:inline-block;text-decoration:inherit}.wpmud a{text-decoration:none;color:#19B4CF}.wpmud .dev-box .wp-way2enjoy-container-header.box-title h3{color:#333;display:inline-block;font-size:15px}.wpmud .dev-box .box-title h3{font-family:'Roboto Condensed',Roboto,sans-serif;font-size:18px;font-weight:700;color:#777771;line-height:60px;margin:0px 0px 0px -22px;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.wpmud .row,.wpmud .row-sep {
+    clear: both;
+    margin: 0 0 0 0;
+    position: relative;
+    display: table;
+    width: 100%;
+    table-layout: fixed
+}
+#wpbody-content {
+    padding-bottom: 65px;
+    float: left;
+    width: 100%;
+    overflow: visible !important
+}
+.wpmud .wp-way2enjoy-container-wrap {
+    display: inline-block;
+    margin-top: 30px
+}
+.wpmud .row .col-half {
+    width: 47%
+}
+.wpmud .row .col-third,
+.wpmud .row .col-two-third,
+.wpmud .row .col-half {
+    display: table-cell;
+    padding: 0 15px 0 15px;
+    position: relative;
+    vertical-align: top
+}
+#wpwrap {
+    height: auto;
+    min-height: 100%;
+    width: 100%;
+    position: relative;
+    -webkit-font-smoothing: subpixel-antialiased
+}
+.way2enjoy-stats-wrapper {
+    font-size: 12px
+}
+
+.wpmud .wp-way2enjoyit-container-right .way2enjoy-stats-wrapper .wp-way2enjoy-container-header {
+    padding: 0 50px
+}
+.wpmud .dev-box.way2enjoy-stats-wrapper {
+    color: #333333;
+    font-size: 13px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    padding: 30px 0 24px 0;
+	text-transform:uppercase;
+}
+
+.wpmud h1,
+.wpmud h2,
+.wpmud h3 {
+    font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+    font-weight: 400;
+    max-width: 900px;
+    text-transform: uppercase
+}
+
+.way2enjoy-stats-wrapper .way2enjoy-container-subheading {
+    margin: 1.2em 0 0.9em;
+    max-width: 100%
+}
+.wpmud .roboto-medium {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500
+}
+.way2enjoy-container-subheading {
+    display: inline-block;
+    float: right;
+    margin: 1.5em auto;
+    max-width: 60%;
+	padding-top: 7px;
+}
+.way2enjoy-stats-wrapper .way2enjoy-container-subheading .spinner {
+    float: left;
+    margin: 7px 8px 0
+}
+
+.way2enjoy-stats-wrapper .box-content {
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px
+}
+
+.way2enjoy-stats-wrapper .row:first-child {
+    padding-top: 0
+}
+.way2enjoy-stats-wrapper .row {
+    padding: 8px 0
+}
+.wpmud .way2enjoy-total-savings.way2enjoy-total-reduction-percent {
+    margin-bottom: 18px;
+    text-align: center
+}
+.wp-way2enjoyed-progress {
+    display: inline-block;
+    text-align: center;
+    vertical-align: bottom
+}
+.wp-way2enjoy-current-progress {
+    cursor: pointer;
+    margin: 0 auto;
+    width: 200px
+}
+.wp-way2enjoy-progress-circle {
+    border-radius: 100%;
+    display: block;
+    height: 50px;
+    position: relative;
+    width: 50px
+}
+.wp-way2enjoy-optimisation-progress {
+    color: #28B576;
+    cursor: pointer;
+    position: relative
+}
+svg[Attributes Style] {
+    width: 50;
+    height: 50
+}
+svg:not(:root),
+symbol,
+image,
+marker,
+pattern,
+foreignObject {
+    overflow: hidden
+}
+html|* > svg {
+    transform-origin: 50% 50% 0px
+}
+* {
+/*  transform-origin: 0px 0px 0px*/
+}
+.wp-way2enjoy-progress-circle .wp-way2enjoy-svg-circle {
+    stroke: #E5E5E5;
+    stroke-dashoffset: 80;
+    stroke-width: 5px;
+    -ms-transition: stroke-dashoffset 1s linear;
+    -moz-transition: stroke-dashoffset 1s linear;
+    -webkit-transition: stroke-dashoffset 1s linear;
+    transition: stroke-dashoffset 1s linear
+}
+.wp-way2enjoy-optimisation-progress .wp-way2enjoy-progress-circle .wp-way2enjoy-svg-circle-progress {
+    stroke: #28B576
+}
+.wp-way2enjoy-progress-circle .wp-way2enjoy-svg-circle-progress {
+    transform: rotate(-80deg) translateX(-45px) translateY(4px);
+    -moz-transform: rotate(-80deg) translateX(-45px) translateY(4px);
+    -webkit-transform: rotate(-80deg) translateX(-45px) translateY(4px)
+}
+.wp-way2enjoy-progress-circle .wp-way2enjoy-svg-circle {
+    stroke: #E5E5E5;
+    stroke-dashoffset: 80;
+    stroke-width: 5px;
+    -ms-transition: stroke-dashoffset 1s linear;
+    -moz-transition: stroke-dashoffset 1s linear;
+    -webkit-transition: stroke-dashoffset 1s linear;
+    transition: stroke-dashoffset 1s linear
+}
+.wp-way2enjoy-count-total {
+    display: inline-block;
+    line-height: 1;
+    margin-left: 15px;
+    overflow: hidden;
+    text-align: left
+}
+.wp-way2enjoy-way2enjoy-stats-wrapper {
+    color: #555555;
+    font-size: 25px
+}
+.total-stats-label {
+    color: #b9b9b9;
+    font-size: 12px
+}
+hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #fafafa
+}
+.wpmud .wp-way2enjoy-stats-label {
+    padding-top: 9px
+}
+.wpmud .wp-way2enjoy-stats,
+.wp-way2enjoy-stats-wrap {
+    color: #555555;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1;
+    padding: 5px 0
+}
+.wp-way2enjoy-all {
+    bottom: 0px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 40px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-transform: uppercase;
+    top: -15px;
+    vertical-align: top;
+    white-space: nowrap;
+    width: 135px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 67.9063px 15px;
+    transform-origin: 67.9063px 15px;
+    caret-color: rgb(255, 255, 255);
+    background: rgb(23, 168, 227) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal 500 normal 12px / 20px Roboto;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 5px 16px;
+    transition: color 0.3s ease 0s, opacity 0.3s ease 0s;
+}
+
+.way2enjoy_req_html, .way2enjoy_req_lbc, .way2enjoy_req_referal, .way2enjoy_req_updemail {
+	font-size: 16px;
+    margin: 0 auto;
+	 margin-top: 20px;
+    width: 300px;
+    padding: 10px 0;
+    display: block;
+	border: none;
+    color: #fff;
+    background: #3498DB;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all .15s;
+	
+}
+.wpmud .wp-way2enjoy-resize-settings-wrap label {
+    display: inline-block;
+    margin-top: 14px;
+    overflow: hidden;
+}
+wpmud label {
+    display: block;
+    padding: 7px 10px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin: 0 0 4px;
+    color: #555;
+}
+.wpmud .wp-way2enjoy-resize-settings-wrap .wp-way2enjoy-resize-input {
+    display: inline-block;
+    margin-left: 5px;
+    width: 100px;
+}
+.wpmud .input, .wpmud input[type="text"], .wpmud input[type="number"] {
+    color: #999;
+    display: block;
+    font: 500 15px/25px 'Roboto';
+    width: 100%;
+    max-width: 100%;
+    padding: 7px 15px 6px;
+    margin: 0px 0px 15px 0px;
+    border: 1px solid #DDD;
+    background: #FFF;
+    border-radius: 48px;
+    box-shadow: none;
+    transition-property: background, color, border-color;
+    transition-duration: 0.3s;
+}
+tr.way2enjoy-item-row td {
+    padding: 7px 0px 0px 16px;
+    height: 20px;
+}
+.boxuu {
+  width: 150px;
+  background: rgba(255,255,255,0.2);
+  border: 2px solid #fff;
+  background-clip: padding-box;
+  text-align: center;
+}
+
+
+/*.button:hover {
+  background: orange;
+}
+*/
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 500px;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: orange;
+}
+.popup .content {
+  max-height: 500px;
+  overflow: auto;
+}
+#way2enjoy_saveresize, #way2enjoy_savenotice, #way2enjoy_savemp3, #way2enjoy_saveold, #way2enjoy_savevideo{display:none;}
+.beautyface {
+  border-radius:0px;
+  -webkit-border-radius:0px;
+    border-color:#666666 ;
+border-width: 1px;
+}
+.reload{width:21px;height:21px;background:url(reload.png)center center no-repeat;display: inline-block}
+.transfer{width:16px;height:16px;background:url(transfer.png)center center no-repeat;display: inline-block}
+.likess{width:20px;height:20px;background:url(like.svg)center center no-repeat;display: inline-block;}
+.inlove1{width:20px;height:20px;background:url(love1.svg)center center no-repeat;display: inline-block;}
+.inlove2{width:20px;height:20px;background:url(love2.svg)center center no-repeat;display: inline-block;}
+.inlove3{width:20px;height:20px;background:url(love3.svg)center center no-repeat;display: inline-block;}
+.inlove4{width:20px;height:20px;background:url(love4.svg)center center no-repeat;display: inline-block;}
+.inlove5{width:20px;height:20px;background:url(love5.svg)center center no-repeat;display: inline-block;}
+.fbsvg{width:32px;height:32px;background:url(facebook.svg)center center no-repeat;display: inline-block}
+.rdtsvg{width:32px;height:32px;background:url(reddit.svg)center center no-repeat;display: inline-block}
+.twtsvg{width:32px;height:32px;background:url(twitter.svg)center center no-repeat;display: inline-block}
+.hiddenspinner{background: #e1e1e1;color: #222222; margin-top: -15px;border: 15px solid transparent;padding: 6px;background-image: url(spinner.svg);background-repeat: no-repeat;background-origin: content-box;background-color: transparent;display:none}
+.loadericon{width:21px;height:21px;background:url(spinner.svg)center center no-repeat;display: inline-block}
+html[dir="rtl"] .way2enjoy-container-subheading{float: left;}
+#rateus{position: absolute;margin-left:220px;margin-top:2px;font-size:14px;line-height:28px;height:28px;font-family:monospace;padding:15px -10px}
+html[dir="rtl"] #rateus{margin-right:-700px;}
+.way2enjoy-admin-section-title{ font-size:12px;text-transform:uppercase;}
+.smallsize{font-size:11px;}
+.likess2{width:20px;height:20px;background:url(like.svg)center center no-repeat;display: inline-block;margin-top:10px;margin-left:100px;}
+.proclass{width:13px;height:13px;background:url(king.svg)center center no-repeat;display: inline-block}
+
+.countBox
+{
+  position:relative;
+  left:3px;
+  width:400px;
+  top:10px;
+}
+
+#valueClignote,#valueClignote1
+{
+ cursor:pointer;
+}
+#button-group22 {
+  height: 50px;
+    right: 95px;
+    position: fixed;
+    bottom: 50px;
+}
+#button-group22 button {
+  background: white;
+  height: 50px;
+  width: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  box-shadow: 0 7px 12px 1px rgba(0, 0, 0, 0.07);
+  color: rgba(0, 0, 0, 0.65);
+  cursor: pointer;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  position: absolute;
+  transition: 0.3s transform cubic-bezier(0.22, -0.57, 0.51, 1.07), 0.2s 0.1s opacity, 0.15s background-color ease-in-out, 0.3s box-shadow;
+}
+#button-group22 button:hover {
+  box-shadow: 0 7px 12px 1px rgba(0, 0, 0, 0.15);
+}
+#button-group22 button:focus {
+  outline: none;
+}
+#button-group22 button.primary-md {
+  background: #2196f3;
+  border-color: #1976D2;
+  color: white;
+  z-index: 11;
+}
+#button-group22 button i {
+  transition: transform .3s;
+}
+#button-group22 button:not(.primary-md) {
+  opacity: 0;
+}
+#button-group22.active button.primary-md i {
+  transform: rotate(45deg);
+}
+#button-group22.active button:not(.primary-md):nth-of-type(1) {
+  transform: translateY(0px);
+  transition: 0.15s 0s transform cubic-bezier(0.33, 0.16, 0.26, 1.72), 0.1s opacity, 0.15s background-color ease-in-out, 0.3s box-shadow;
+  opacity: 1;
+  z-index: 10;
+}
+#button-group22.active button:not(.primary-md):nth-of-type(2) {
+  transform: translateY(-65px);
+  transition: 0.25s 0.015s transform cubic-bezier(0.33, 0.16, 0.26, 1.72), 0.1s opacity, 0.15s background-color ease-in-out, 0.3s box-shadow;
+  opacity: 1;
+  z-index: 9;
+}
+#button-group22.active button:not(.primary-md):nth-of-type(3) {
+  transform: translateY(-130px);
+  transition: 0.35s 0.03s transform cubic-bezier(0.33, 0.16, 0.26, 1.72), 0.1s opacity, 0.15s background-color ease-in-out, 0.3s box-shadow;
+  opacity: 1;
+  z-index: 8;
+}
+#button-group22.active button:not(.primary-md):nth-of-type(4) {
+  transform: translateY(-195px);
+  transition: 0.45s 0.045s transform cubic-bezier(0.33, 0.16, 0.26, 1.72), 0.1s opacity, 0.15s background-color ease-in-out, 0.3s box-shadow;
+  opacity: 1;
+  z-index: 7;
+}
+#button-group22.active button:not(.primary-md):nth-of-type(5) {
+  transform: translateY(-260px);
+  transition: 0.55s 0.06s transform cubic-bezier(0.33, 0.16, 0.26, 1.72), 0.1s opacity, 0.15s background-color ease-in-out, 0.3s box-shadow;
+  opacity: 1;
+  z-index: 6;
+}
+#button-group22.active button:not(.primary-md):nth-of-type(6) {
+  transform: translateY(-325px);
+  transition: 0.65s 0.075s transform cubic-bezier(0.33, 0.16, 0.26, 1.72), 0.1s opacity, 0.15s background-color ease-in-out, 0.3s box-shadow;
+  opacity: 1;
+  z-index: 5;
+}
+.way2enjoy_req_folder {
+    font-size: 16px;
+    margin: 0 auto;
+    margin-top: -70px;
+    width: 300px;
+    padding: 10px 0;
+    display: block;
+    border: none;
+    color: #fff;
+    background: #3498DB;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all .15s;
+}
+
+
+.wp-way2enjoy-alld {
+    bottom: 0px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 40px;
+    left: 0px;
+    position: relative;
+    right: 0px;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-transform: uppercase;
+    top: -15px;
+    vertical-align: top;
+    white-space: nowrap;
+    width: 135px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 67.9063px 15px;
+    transform-origin: 67.9063px 15px;
+    caret-color: rgb(255, 255, 255);
+    background: rgb(23, 168, 227) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal 500 normal 12px / 20px Roboto;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 5px 16px;
+    transition: color 0.3s ease 0s, opacity 0.3s ease 0s;
+}
+
+#save_response{
+font-size: 24px;
+    margin-bottom: 90px;
+    text-align: center;
+}
+.way2enjoyBulkHeader1 {
+    position: fixed;
+    bottom: 20px;
+    margin-left: 25%;
+    font-size: 0px;
+	font-family:'Roboto Condensed', sans-serif;
+	font-weight:700;
+}
+.buy2 {
+    width: 40px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 80px;
+	text-decoration:none
+}

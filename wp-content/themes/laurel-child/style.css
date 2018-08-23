@@ -1,0 +1,32 @@
+/*
+ Theme Name:   Laurel Child
+ Theme URI:    http://webbinart.tk/wp_alluresauvage/
+ Description:  Allure Sauvage Child Theme
+ Author:       Stefan Simonovic, Djordje Todorovic
+ Author URI:   http://example.com
+ Template:     laurel
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+.sideslides .feat-overlay {
+    margin-top: -165px!important;
+}
+.slider_homepage{
+	max-width: 100%;
+}
+.slider_homepage .feat-overlay h2{
+	transform: translateY(-15px);
+}
+.slider_homepage .feat-read-more{
+	transform: translateY(-10px);
+}
+.sticky #logo img, #logo-secondary img{
+	max-width:100%!important;
+}
+/*#logo img, #logo-secondary img{
+	max-width:8%!important;
+}*/

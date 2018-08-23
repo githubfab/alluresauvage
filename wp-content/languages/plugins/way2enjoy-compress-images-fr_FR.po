@@ -1,0 +1,734 @@
+# Translation of Plugins - W2E Image Optimizer and Resize Image &#8211; WordPress Image Compression - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - W2E Image Optimizer and Resize Image &#8211; WordPress Image Compression - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-13 08:32:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - W2E Image Optimizer and Resize Image &#8211; WordPress Image Compression - Stable (latest release)\n"
+
+#: way2enjoy.php:328
+msgid "you can restrict the dimensions by width, height, or both. set very high no to avoid resizing"
+msgstr "vous pouvez limiter les dimensions par largeur, hauteur ou les deux. Réglez très haut pour éviter le redimensionnement"
+
+#: way2enjoy.php:5256
+msgid "."
+msgstr "."
+
+#: way2enjoy.php:3851
+msgid "Optimizing...all recent uploads.Its doing in background.Check after few minutes by refreshing this page. Dont click again."
+msgstr "Optimiser....tous les téléversements récents...C’est fait en arrière-plan...Vérifiez après quelques minutes en rafraîchissant cette page. Ne cliquez pas à nouveau."
+
+#: way2enjoy.php:3983
+msgid "File Type"
+msgstr "Type de fichier"
+
+#: way2enjoy.php:3986
+msgid "Search. Use checkbox to make selection"
+msgstr "Recherche. Utilisez les cases à cocher pour faire une sélection"
+
+#: way2enjoy.php:3620 way2enjoy.php:3710 way2enjoy.php:3854 way2enjoy.php:5283
+msgid "No savings found or quota exceeded"
+msgstr "Aucun enregistrement trouvé ou quota dépassé"
+
+#. Plugin Name of the plugin/theme
+msgid "W2E Image Optimizer"
+msgstr "W2E Image Optimizer"
+
+#: way2enjoy.php:2465 way2enjoy.php:2707
+msgid "Quota exceeded.Please"
+msgstr "Quota dépassé. Veuillez"
+
+#: way2enjoy.php:403
+msgid "Never"
+msgstr "Jamais"
+
+#: way2enjoy.php:402
+msgid "3 Credits/image will be used. Be careful it will do lot of analysis. You may not get more savings in each image but in total you can expect 5-10% more savings. Only for Premium Users"
+msgstr "3 Des crédits/image seront utilisés. Attention, cela fera beaucoup d’analyses. Vous n’obtiendrez peut-être pas plus d’économies sur chaque image, mais au total, vous pouvez vous attendre à des économies supplémentaires de 5 à 10 %. Uniquement pour les utilisateurs Premium"
+
+#: way2enjoy.php:401
+msgid "Artificial Intelligence"
+msgstr "Intelligence artificielle"
+
+#: way2enjoy.php:5292
+msgid "Resetting images, pleaes wait..."
+msgstr "Réinitialisation des images, veuillez patienter&hellip;"
+
+#: way2enjoy.php:5291
+msgid ""
+"This will immediately remove all Way2enjoy metadata associated with your images. \n"
+"\n"
+"Are you sure you want to do this?"
+msgstr ""
+"Ceci supprimera immédiatement toutes les métadonnées Way2enjoy associées à vos images. \n"
+"\n"
+"Confirmez-vous vouloir faire cela ?"
+
+#: way2enjoy.php:5384
+msgid "You have consumed your monthly quota. buy additional credit for optimizing more images. For current  status Click me Please and then Refresh 1 times"
+msgstr "Vous avez consommé votre quota mensuel. Achetez des crédits supplémentaires pour optimiser plus d’images. Pour connaître l’état actuel veuillez me cliquer, puis actualisez 1 fois."
+
+#: way2enjoy.php:5258
+msgid "Optimizing..."
+msgstr "Optimisation&hellip;"
+
+#: way2enjoy.php:400
+msgid "Intelligent Crop"
+msgstr "Recadrage intelligent"
+
+#: way2enjoy.php:399
+msgid "Pro"
+msgstr "Pro"
+
+#: way2enjoy.php:398
+msgid "Free"
+msgstr "Gratuit"
+
+#: way2enjoy.php:397
+msgid "Video"
+msgstr "Vidéo"
+
+#: way2enjoy.php:396
+msgid "SVG Upload"
+msgstr "Téléversement SVG"
+
+#: way2enjoy.php:395
+msgid "Quality"
+msgstr "Qualité"
+
+#: way2enjoy.php:394
+msgid "Google Love"
+msgstr "Amour de Google"
+
+#: way2enjoy.php:393
+msgid "Webp Image generation"
+msgstr "Génération d’image Webp"
+
+#: way2enjoy.php:5313
+msgid "--"
+msgstr "--"
+
+#: way2enjoy.php:392
+msgid "Cloud Backup for one hour.Only for Premium Customers"
+msgstr "Sauvegarde cloud pendant une heure, uniquement pour les clients Premium."
+
+#: way2enjoy.php:391
+msgid "Backup"
+msgstr "Sauvegarde"
+
+#: way2enjoy.php:5286 way2enjoy.php:5328
+msgid "We've spent countless hours developing this free plugin for you, and we would really appreciate it if you dropped us a quick rating!"
+msgstr "Nous avons passé d’innombrables heures à développer cette extension gratuite pour vous et nous vous serions très reconnaissants si vous nous laissiez une note rapide !"
+
+#: way2enjoy.php:390
+msgid "LEVERAGE BROWSER CACHING"
+msgstr "Mise à profit de la mise en cache du navigateur"
+
+#: way2enjoy.php:5285
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: way2enjoy.php:5284
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#: way2enjoy.php:389
+msgid "No of seconds after which all warnings,alerts,notices for all plugins will be hidden.Prefer 5-10 seconds to avoid important notice"
+msgstr "Nbre de secondes après lesquelles tous les avertissements, alertes, remarques pour toutes les extensions seront masqués. Préférez 5-10 secondes pour éviter les remarques importantes"
+
+#: way2enjoy.php:388
+msgid "Control Notices, Alerts, Warnings"
+msgstr "Contrôlez les remarques, alertes, avertissements"
+
+#: way2enjoy.php:5444
+msgid "Hey Your email has been changed.Please update new email in our dashboard."
+msgstr "Hé, votre e-mail a été modifié. Veuillez mettre à jour votre nouvel e-mail dans notre tableau de bord."
+
+#: way2enjoy.php:1428 way2enjoy.php:3979
+msgid "Choose Directory"
+msgstr "Choisissez le répertoire"
+
+#: way2enjoy.php:387
+msgid "Support Forum"
+msgstr "Forum de support"
+
+#: way/includes/deactivate.php:35
+msgid "Technical problems / hard to use - Report Bug & get 10000 Credit free"
+msgstr "Problèmes techniques/difficultés à utiliser - Rapportez tout bogue & obtenez 10000 crédits gratuits"
+
+#: way/templates/display_deactivation_popup.php:15
+msgid "HEY! <a href='https://wordpress.org/support/view/plugin-reviews/way2enjoy-compress-images?rate=5#postform' target='_blank'>RATE US</a> / <a href='https://wordpress.org/support/plugin/way2enjoy-compress-images/' target='_blank' >REPORT BUG</a>"
+msgstr "Hé ! <a href='https://wordpress.org/support/view/plugin-reviews/way2enjoy-compress-images?rate=5#postform' target='_blank'>Motez-nous</a>/<a href='https://wordpress.org/support/plugin/way2enjoy-compress-images/' target='_blank' >rapportez un bog</a>"
+
+#: way2enjoy.php:386
+msgid "Issue"
+msgstr "Problème"
+
+#: way2enjoy.php:385
+msgid "Report Issue"
+msgstr "Rapporter un problème"
+
+#: way2enjoy.php:384 way2enjoy.php:1438
+msgid "Submit"
+msgstr "Soumettre"
+
+#: way2enjoy.php:383
+msgid "Website"
+msgstr "Site web"
+
+#: way2enjoy.php:382
+msgid "Refer"
+msgstr "Référer"
+
+#. Author of the plugin/theme
+msgid "Way2enjoy"
+msgstr "Way2enjoy"
+
+#: way2enjoy.php:381
+msgid "Optimize database tables"
+msgstr "Optimiser les tables de base de données"
+
+#: way2enjoy.php:380
+msgid "Dont Change Please"
+msgstr "Veuillez ne pas changer"
+
+#: way2enjoy.php:379
+msgid "Image quality setting"
+msgstr "Réglage de qualité d’image"
+
+#: way2enjoy.php:5484
+msgid "Hey! Do you know you can use way2enjoy image optimizer credit in all of your sites"
+msgstr "Hé ! Savez-vous que vous pouvez utiliser le crédit d’optimisation d’image way2enjoy pour tous vos sites"
+
+#: way2enjoy.php:5466
+msgid "Hey! Do you know you can compress all your previously uploaded files. Change 550 to higher no in Optimize Old Images field"
+msgstr "Hé ! Savez-vous que vous pouvez compresser tous vos fichiers précédemment téléversés. Modifiez 550 à plus haut non dans le champ Optimiser les anciennes images"
+
+#: way2enjoy.php:5426
+msgid "Hey! Do you really need this much big images?? change the width & height in setting page. Click on reset all images and all images will appear again in dashboard. Please note that all images will be compressed again and it will count again.So be careful.If you have lot of big images you can save lot & make your site very fast. Current width is"
+msgstr "Hé ! Avez-vous vraiment besoin d’aussi grandes images ? Modifiez la largeur et la hauteur dans la page de réglage. Cliquez sur Réinitialiser toutes les images et toutes les images apparaîtront à nouveau dans le tableau de bord. Veuillez noter que toutes les images seront compressées à nouveau et cela comptera à nouveau.Soyez donc prudent.Si vous avez beaucoup de grandes images, vous pouvez économiser beaucoup et rendre votre site très rapide. La largeur actuelle est"
+
+#. Description of the plugin/theme
+msgid "Image Optimizer will dramaticaly reduce image file size without losing quality. Resize, compress, optimize PNG, JPG, GIF, PDF, MP3 files, make your website load faster, improve SEO using way2enjoy, the most advanced image optimization tool."
+msgstr "L’optimiseur d’image réduit drastiquement la taille des fichiers image sans perte de qualité. Redimensionnez, comprimez, optimisez les fichiers PNG, JPG, GIF, PDF, MP3, accélérez le chargement de votre site web, améliorez le référencement en utilisant way2enjoy, l’outil d’optimisation d’image le plus avancé."
+
+#: way2enjoy.php:377
+msgid "Optimize Old Images"
+msgstr "Optimiser les anciennes images"
+
+#: way2enjoy.php:378
+msgid "No of previously uploaded images you want to Optimize"
+msgstr "Aucune des images précédemment téléversées que vous souhaitez optimiser"
+
+#: way/templates/display_deactivation_popup.php:36
+msgid "Cancel"
+msgstr "Annuler"
+
+#: way/templates/display_deactivation_popup.php:35
+msgid "Submit and deactivate"
+msgstr "Soumettre et désactiver"
+
+#: way/templates/display_deactivation_popup.php:34
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: way/includes/notices.php:215
+msgid "Maybe Later"
+msgstr "Peut-être plus tard"
+
+#: way/includes/notices.php:216
+msgid "Never show again"
+msgstr "Ne jamais afficher à nouveau"
+
+#: way/includes/notices.php:214
+msgid "I've already left a review"
+msgstr "J’ai déjà laissé une évaluation"
+
+#: way/includes/notices.php:213
+msgid "Sure! I'd love to!"
+msgstr "Sûr ! J’adorerais !"
+
+#: way/includes/notices.php:212
+msgid "We hope you've enjoyed using WordPress %s! Would you consider leaving us a review on WordPress.org?"
+msgstr "Nous espérons que vous avez apprécié l’utilisation de WordPress %s ! Envisageriez-vous de nous laisser une évaluation sur WordPress.org ?"
+
+#: way/includes/notices.php:211
+msgid "Leave A Review?"
+msgstr "Laisser une évaluation ?"
+
+#: way/includes/deactivate.php:39
+msgid "Free version is limited."
+msgstr "La version gratuite est limitée."
+
+#: way/includes/deactivate.php:51
+msgid "Temporary deactivation"
+msgstr "Désactivation temporaire"
+
+#: way/includes/deactivate.php:47
+msgid "Upgrading to paid version"
+msgstr "Mise à niveau vers la version payante"
+
+#: way/includes/deactivate.php:43
+msgid "Premium is expensive"
+msgstr "Premium est chère"
+
+#: way2enjoy.php:374
+msgid "MP3 Cutter"
+msgstr "MP3 Cutter"
+
+#: way2enjoy.php:372
+msgid "PDF"
+msgstr "PDF"
+
+#: way2enjoy.php:373
+msgid "Web Version"
+msgstr "Version web"
+
+#: way2enjoy.php:376
+msgid "Higher bitrate - Higher quality & bigger size,Low bitrate - Lower quality & smaller size"
+msgstr "Débit plus élevé - Qualité supérieure et plus grande taille, Débit plus faible - Qualité inférieure et plus petite taille"
+
+#: way2enjoy.php:375
+msgid "MP3 Compression(Bit)"
+msgstr "Compression MP3 (bit)"
+
+#: way2enjoy.php:369
+msgid "Slow"
+msgstr "Lent"
+
+#: way2enjoy.php:368
+msgid "YOUR SERVER IS"
+msgstr "Votre serveur est"
+
+#: way2enjoy.php:370
+msgid "Fast"
+msgstr "Rapide"
+
+#: way2enjoy.php:367 way2enjoy.php:5330
+msgid "Translate"
+msgstr "Traduire"
+
+#: way2enjoy.php:365 way2enjoy.php:5507
+msgid "Seconds"
+msgstr "Secondes"
+
+#: way2enjoy.php:364
+msgid "Minutes"
+msgstr "Minutes"
+
+#: way2enjoy.php:363 way2enjoy.php:1437
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+#: way2enjoy.php:360
+msgid "GOOGLE PAGESPEED"
+msgstr "Google Pagespeed"
+
+#: way2enjoy.php:362
+msgid "Desktop"
+msgstr "PC"
+
+#: way2enjoy.php:361
+msgid "Mobile"
+msgstr "Mobile"
+
+#: way2enjoy.php:356 way2enjoy.php:5279
+msgid "Retry request"
+msgstr "Demander à nouveau"
+
+#: way2enjoy.php:355 way2enjoy.php:5278
+msgid "Image optimized"
+msgstr "Image optimisé"
+
+#: way2enjoy.php:350 way2enjoy.php:5271
+msgid "Done"
+msgstr "Terminé"
+
+#: way2enjoy.php:232 way2enjoy.php:366 way2enjoy.php:2464 way2enjoy.php:2706
+#: way2enjoy.php:3622 way2enjoy.php:3712 way2enjoy.php:5264
+msgid "Buy"
+msgstr "Acheter"
+
+#: way2enjoy.php:742
+msgid "Enable Now!"
+msgstr "Activer maintenant !"
+
+#: way2enjoy.php:359
+msgid "5000 Images"
+msgstr "5000 images"
+
+#: way2enjoy.php:357 way2enjoy.php:5280
+msgid "This image can not be optimized any further"
+msgstr "Cette image ne peut pas être plus optimisée"
+
+#: way2enjoy.php:353 way2enjoy.php:5276
+msgid "Callback was already called"
+msgstr "Le rappel a déjà été appelé"
+
+#: way2enjoy.php:352 way2enjoy.php:5275
+msgid "Images will be optimized by Way2enjoy Image compressor"
+msgstr "Les images seront optimisées par le compresseur d’image Way2enjoy"
+
+#: way2enjoy.php:349
+msgid "Saving on Your Homepage. All other pages are also compressed"
+msgstr "Enregistrement sur votre page d'accueil. Toutes les autres pages sont également compressées"
+
+#: way2enjoy.php:348
+msgid "HTML, CSS, JS COMPRESSION"
+msgstr "Compression HTML, CSS, JS"
+
+#: way2enjoy.php:2260
+msgid "Developer API credentials cannot be used with this plugin"
+msgstr "Les informations d'identification de l'API du développeur ne peuvent pas être utilisées avec cet extension"
+
+#: way2enjoy.php:231
+msgid "Settings"
+msgstr "Réglages"
+
+#: way2enjoy.php:3136
+msgid "Way2enjoy.com: Could not replace local image with optimized image."
+msgstr "Way2enjoy.com : impossible de remplacer l'image locale par une image optimisée."
+
+#: way2enjoy.php:2463 way2enjoy.php:2705 way2enjoy.php:2948
+msgid "Could not overwrite original file. Please ensure that your files are writable by plugins."
+msgstr "Impossible d'écraser le fichier original. Assurez-vous que vos fichiers sont inscriptibles par des extensions."
+
+#: way2enjoy.php:2462 way2enjoy.php:2704 way2enjoy.php:2947
+msgid "There is a problem with your credentials. Please check them in the Way2enjoy.com settings section of Media Settings, and try again."
+msgstr "Il y a un problème avec vos informations d'identification. Vérifiez-les dans la section des réglages Way2enjoy.com des réglages média, puis réessayez."
+
+#: way2enjoy.php:2261
+msgid "Please enter a valid Way2enjoy.com API key and secret."
+msgstr "Veuillez saisir une clé et un secret d’API Way2enjoy.com valides."
+
+#: way2enjoy.php:347 way2enjoy.php:5281 way2enjoy.php:5308 way2enjoy.php:5329
+msgid "Rate Us"
+msgstr "Evaluez-nous"
+
+#: way2enjoy.php:2259
+msgid "API Credentials must not be left blank."
+msgstr "Les informations d'identification de l'API ne doivent pas être laissées vides."
+
+#: way2enjoy.php:3443
+msgid "Visit Way2enjoy.com Compress Images"
+msgstr "Visiter Way2enjoy.com Compress Images"
+
+#: way2enjoy.php:3422
+msgid "There is a problem with your credentials"
+msgstr "Il y a un problème avec vos informations d'identification"
+
+#: way2enjoy.php:346 way2enjoy.php:3779
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: way2enjoy.php:653 way2enjoy.php:3423
+msgid "Your credentials are valid"
+msgstr "Vos informations d'identification sont valides"
+
+#: way2enjoy.php:3850 way2enjoy.php:3985
+msgid "Optimize"
+msgstr "Optimiser"
+
+#: way2enjoy.php:3855
+msgid "Type"
+msgstr "Type"
+
+#: way2enjoy.php:3783
+msgid "thumbnails"
+msgstr "Miniatures"
+
+#: way2enjoy.php:354 way2enjoy.php:3856 way2enjoy.php:5277
+msgid "Failed! Hover here"
+msgstr "Échoué ! Pousser ici"
+
+#: way2enjoy.php:3853
+msgid "Optimize Main Image"
+msgstr "Optimiser l'image principale"
+
+#: way2enjoy.php:3782 way2enjoy.php:5316
+msgid "Savings on"
+msgstr "Économies sur"
+
+#: way2enjoy.php:3781
+msgid "Main image savings"
+msgstr "Économies d'image principale"
+
+#: way2enjoy.php:3619 way2enjoy.php:3709
+msgid "Show details"
+msgstr "Afficher les détails"
+
+#: way2enjoy.php:3516 way2enjoy.php:5269
+msgid "Way2enjoy Stats"
+msgstr "Stats Way2enjoy"
+
+#: way2enjoy.php:3444
+msgid "API settings"
+msgstr "Réglages d’API"
+
+#: way2enjoy.php:345 way2enjoy.php:3621 way2enjoy.php:3711 way2enjoy.php:3778
+#: way2enjoy.php:5568
+msgid "Saved"
+msgstr "Économisé"
+
+#: way2enjoy.php:3977 way2enjoy.php:5267
+msgid "Name"
+msgstr "Nom"
+
+#: way2enjoy.php:3975
+msgid "Bulk Compress via"
+msgstr "Compression en masse par"
+
+#: way2enjoy.php:3974
+msgid "Images"
+msgstr "Images"
+
+#: way2enjoy.php:3973
+msgid "incl thumbnails) can be optimized.Ensure that you have sufficient credit left as Bulk compression will stop if credit is exhausted"
+msgstr "y compris les vignettes) peuvent être optimisés. Assurez-vous que vous disposez d'un crédit suffisant car la compression en vrac s'arrête si le crédit est épuisé"
+
+#: way2enjoy.php:3972 way2enjoy.php:5270 way2enjoy.php:5786
+msgid "Compress All"
+msgstr "Tout compresser"
+
+#: way2enjoy.php:3517 way2enjoy.php:3978 way2enjoy.php:5268
+msgid "Original Size"
+msgstr "Taille originale"
+
+#: way2enjoy.php:340 way2enjoy.php:5266
+msgid "Bulk Compression"
+msgstr "Compression en masse"
+
+#: way2enjoy.php:338
+msgid "Resetting an image will remove the Way2enjoy.com metadata associated with it, effectively making your website forget that it had been optimized in past, allowing further optimization in some cases"
+msgstr "La réinitialisation d'une image supprimera les métadonnées de Way2enjoy.com associées à celle-ci, ce qui fait que votre site web peut oublier qu'il l'avait déjà optimisée précédemment, ce qui permet une optimisation supplémentaire dans certains cas"
+
+#: way2enjoy.php:336 way2enjoy.php:3492
+msgid "Reset All Images"
+msgstr "Réinitialiser toutes les images"
+
+#: way2enjoy.php:335
+msgid "Show metadata reset per image"
+msgstr "Afficher la réinitialisation des métadonnées par image"
+
+#: way2enjoy.php:332
+msgid "Automatically Orient Images"
+msgstr "Orienter automatiquement les images"
+
+#: way2enjoy.php:331
+msgid "Image Sizes to Compress"
+msgstr "Dimensions de l'image à compresser"
+
+#: way2enjoy.php:330
+msgid "We recommend to use default values"
+msgstr "Nous recommandons d'utiliser des valeurs par défaut"
+
+#: way2enjoy.php:329
+msgid "Advanced Settings"
+msgstr "Réglages avancés"
+
+#: way2enjoy.php:327
+msgid "Useful if you wish to prevent large photos with extremely high resolutions from being uploaded"
+msgstr "Utile si vous souhaitez éviter que de grandes photos ne soient téléchargées avec des résolutions extrêmement élevée"
+
+#: way2enjoy.php:325
+msgid "Max Height (px)"
+msgstr "Hauteur maximale (px)"
+
+#: way2enjoy.php:324
+msgid "Max Width (px)"
+msgstr "Largeur maximale (px)"
+
+#: way2enjoy.php:323
+msgid "Resize main image"
+msgstr "Redimensionner l'image principale"
+
+#: way2enjoy.php:320
+msgid "Image uploaded by the user will be optimized, as well as all size images generated by WordPress"
+msgstr "L'image téléchargée par l'utilisateur sera optimisée, ainsi que toutes les images de taille générées par WordPress"
+
+#: way2enjoy.php:319
+msgid "Optimize main image"
+msgstr "Optimiser l'image principale"
+
+#: way2enjoy.php:311
+msgid "Chat"
+msgstr "Chat"
+
+#: way2enjoy.php:296
+msgid "Compressed"
+msgstr "Compressée"
+
+#: way2enjoy.php:295 way2enjoy.php:3623 way2enjoy.php:3713 way2enjoy.php:5257
+msgid "Balance"
+msgstr "Balance"
+
+#: way2enjoy.php:292
+msgid "Automatic compression enabled"
+msgstr "Compression automatique activée"
+
+#: way2enjoy.php:220 way2enjoy.php:291 way2enjoy.php:4250
+msgid "Way2enjoy Compress Images Settings"
+msgstr "Réglages de compression d'image Way2enjoy"
+
+#: way2enjoy.php:3976
+msgid "Media Library"
+msgstr "Bibliothèque de médias"
+
+#: way2enjoy.php:3371
+msgid "You've just installed %3$s, the most powerful image compression plugin! change settings anytime.All uploaded images will be automatically compressed.Nothing required from your part!"
+msgstr "Vous venez d'installer %3$s, la plus puissante extension de compression d'image ! Modifiez les réglages à tout moment. Toutes les images mises en ligne seront automatiquement compressées. Rien n'est obligatoire de votre part !"
+
+#: way2enjoy.php:3347
+msgid "OH YEAH, IT'S COMPRESSION TIME!"
+msgstr "C’est parti, c’est le moment de compresser !"
+
+#: way2enjoy.php:3346
+msgid "WELCOME"
+msgstr "Bienvenue"
+
+#: way2enjoy.php:3323
+msgid "Dismiss Welcome notice"
+msgstr "Masquer la notification de bienvenue"
+
+#: way2enjoy.php:343 way2enjoy.php:5569
+msgid "Save"
+msgstr "Enregistrer"
+
+#: way2enjoy.php:342
+msgid "For blogs on shared hosting plans a lower number is advisable to avoid hitting request limits"
+msgstr "Pour les blogs sur hébergements mutualisés, un nombre inférieur est conseillé afin d'éviter d’atteindre les limites de requête"
+
+#: way2enjoy.php:341
+msgid "This settings defines how many images can be processed at the same time using the bulk optimizer. The default value is 4"
+msgstr "Ce réglage définit le nombre d'images pouvant être traitées simultanément à l'aide de l'optimiseur en masse. La valeur par défaut est 4"
+
+#: way2enjoy.php:339
+msgid "If in doubt, please contact support@way2enjoy.com"
+msgstr "En cas de doute, veuillez contacter support@way2enjoy.com"
+
+#: way2enjoy.php:301
+msgid "Bulk Compress/Offers"
+msgstr "Compression/offres en vrac"
+
+#: way2enjoy.php:300
+msgid "NEXT CREDIT"
+msgstr "Prochain crédit"
+
+#: way2enjoy.php:299
+msgid "TOTAL QUOTA"
+msgstr "Quota total"
+
+#: way2enjoy.php:298
+msgid "TOTAL SAVINGS"
+msgstr "Total économisé"
+
+#: way2enjoy.php:297
+msgid "IMAGES COMPRESSED"
+msgstr "Images compressées"
+
+#: way2enjoy.php:294
+msgid "PLAN"
+msgstr "Plan"
+
+#: way2enjoy.php:293
+msgid "STATS"
+msgstr "Stats"
+
+#: way2enjoy.php:316
+msgid "Automatically optimize uploads"
+msgstr "Optimiser automatiquement les mises en ligne"
+
+#: way2enjoy.php:314 way2enjoy.php:3468 way2enjoy.php:5273 way2enjoy.php:5315
+#: way2enjoy.php:5373
+msgid "Way2enjoy Lossy"
+msgstr "Perte Way2enjoy"
+
+#: way2enjoy.php:313 way2enjoy.php:3785 way2enjoy.php:5272
+msgid "Optimization mode"
+msgstr "Mode d’optimisation"
+
+#: way2enjoy.php:312
+msgid "Your basic details will be shared with us"
+msgstr "Vos informations basiques seront partagées avec nous"
+
+#: way2enjoy.php:310
+msgid "Upgrade"
+msgstr "Mise à niveau"
+
+#: way2enjoy.php:309
+msgid "Settings saved"
+msgstr "Réglages enregistrés"
+
+#: way2enjoy.php:308
+msgid "MONTHLY PLAN"
+msgstr "Plan mensuel"
+
+#: way2enjoy.php:307
+msgid "YEARLY PLAN"
+msgstr "Plan annuel"
+
+#: way2enjoy.php:306
+msgid "% Off"
+msgstr "% de réduction"
+
+#: way2enjoy.php:305
+msgid "500000 Images"
+msgstr "500000 images"
+
+#: way2enjoy.php:304
+msgid "ONE TIME PLAN"
+msgstr "Plan 1 unique fois"
+
+#: way2enjoy.php:303
+msgid "1% REDUCES TOMORROW"
+msgstr "1% de réduction demain"
+
+#: way2enjoy.php:302
+msgid "discount in One time plan & similar discount in yearly & Monthly plans.Discounts decreases daily so hurry & buy some plans"
+msgstr "Promotion sur le plan 1 unique fois et promotion similaire sur les plans annuel et PLAN mensuel. Les promotions diminuent chaque jour, pressez-vous et achetez des plans"
+
+#: way2enjoy.php:315 way2enjoy.php:3469 way2enjoy.php:5274 way2enjoy.php:5314
+#: way2enjoy.php:5372
+msgid "Lossless"
+msgstr "Sans perte"
+
+#: way2enjoy.php:337
+msgid "It will add a Reset button in the \"Show Details\" popup in the Way2enjoy Stats column for already compressed images"
+msgstr "Cela ajoutera un bouton Réinitialiser pour les images déjà compressées dans la fenêtre surgissante « Afficher les détails » de la colonne de statistiques Way2enjoy pour les images déjà compressées"
+
+#: way2enjoy.php:334
+msgid "Enable this setting if many of your image uploads come from smart phones or digital cameras which set the orientation based on how they are held at the time of shooting"
+msgstr "Activez ce réglage si plusieurs de vos mises en ligne d'image proviennent de téléphones intelligents ou d'appareils photo numériques qui définissent l'orientation en fonction de leur maintien au moment de la prise de vue"
+
+#: way2enjoy.php:333
+msgid "This setting will rotate the JPEG image according to its <strong>Orientation</strong> EXIF metadata such that it will always be correctly displayed in Web Browsers"
+msgstr "Ce réglage fera pivoter l'image JPEG en fonction de <strong>l’rientation</strong> de ses métadonnées EXIF  telles qu'elles seront toujours affichées correctement dans les navigateurs Web"
+
+#: way2enjoy.php:326
+msgid "Restrict the maximum dimensions of image uploads by width and/or height"
+msgstr "Limiter les dimensions maximales des mises en ligne d'image par largeur et/ou hauteur"
+
+#: way2enjoy.php:321
+msgid "Disabling this option results in faster uploading, since the main image is not sent to our system for optimization"
+msgstr "La désactivation de cette option entraîne une mise en ligne plus rapide, car l'image principale n'est pas envoyée à notre système pour l'optimisation"
+
+#: way2enjoy.php:318
+msgid "Disable this setting if you wish to compress images later"
+msgstr "Désactivez ce réglage si vous souhaitez compresser des images plus tard"
+
+#: way2enjoy.php:317
+msgid "Images uploaded through the Media Uploader will be optimized on-the-fly"
+msgstr "Les images mises en ligne via l’outil de mise en ligne des médias seront optimisées à la volée"
+
+#. Plugin URI of the plugin/theme
+msgid "https://way2enjoy.com/compress-jpeg"
+msgstr "https://way2enjoy.com/compress-jpeg"
+
+#: way2enjoy.php:322
+msgid "Disable if you never use the main image upload in your posts, or speed of image uploading is an issue"
+msgstr "Désactivez si vous n’utilisez jamais le téléversement d’image principale dans vos articles, ou si la vitesse de téléversement d’image est un problème"
